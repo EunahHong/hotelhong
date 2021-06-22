@@ -76,7 +76,7 @@
 #### ver2 - 이벤트 수정
  - 결재 후 예약 진행 시, 주문은 공실에 한해서 예약이 가능하다는 가정하에 호탤 관계자가 임의로 취소할 수 없는 것으로 변경하였음
  - SMS를 받는 것과 Mypage에서 조회하는 것 모두 안내 기능이므로 별도의 서비스로 분리
-![그림2](https://user-images.githubusercontent.com/84304035/122948271-c1dd9e00-d3b5-11eb-92f8-69a68fdeddf6.jpg)
+![그림2](https://user-images.githubusercontent.com/84304035/122952551-0880c780-d3b9-11eb-8ecb-6028689e10be.jpg)
 
 #### ver3 - attribute생성
 ![그림3](https://user-images.githubusercontent.com/84304035/122951447-403b3f80-d3b8-11eb-8a56-17bb7c06ce1f.jpg)
