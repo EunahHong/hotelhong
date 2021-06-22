@@ -63,7 +63,6 @@
 3. 성능
    - 고객이 예약 확인 상태를 마이페이지에서 확인할 수 있어야 한다. `CQRS`
    - 예약 상태가 바뀔 때 마다 SMS로 알림이 발송되어야 한다.
-# 여기까지 
 
 # 분석 설계
 
@@ -71,7 +70,7 @@
 
 #### ver1 - 이벤트도출
  - MSAEZ 툴에서 이벤트스토밍 작업
- - 업무별 담당자를 분배하여 각 도메인별 command,event,aggregate,policy를 도출
+ - 호텔 예약 시스템에 맞춰 각 도메인별 command,event,aggregate,policy를 도출
  - 이후 java소스로의 컨버전을 고려하여 네이밍을 영문 대문자로 시작하는 것으로 명칭변경 적용
 ![ver1](https://github.com/mulcung03/AWS3_healthcenter/blob/main/refer/storming_1.JPG)
 
