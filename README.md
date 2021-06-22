@@ -81,7 +81,7 @@
 ![그림2](https://user-images.githubusercontent.com/84304035/122953437-ae343680-d3b9-11eb-8b2f-c78695f3c50f.jpg)
 
 #### ver3 - attribute생성
-![그림3](https://user-images.githubusercontent.com/84304035/122955735-51398000-d3bb-11eb-999e-32e3b25282bd.jpg)
+![그림3](https://user-images.githubusercontent.com/84304035/122956785-46331f80-d3bc-11eb-8d48-0e9d8bacedc3.jpg)
 
 
 ### 기능 요구사항을 커버하는지 검증
