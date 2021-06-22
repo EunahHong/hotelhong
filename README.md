@@ -81,7 +81,7 @@
 ![그림2](https://user-images.githubusercontent.com/84304035/122953437-ae343680-d3b9-11eb-8b2f-c78695f3c50f.jpg)
 
 #### ver3 - attribute생성
-![그림3](https://user-images.githubusercontent.com/84304035/122955327-f738ba80-d3ba-11eb-8991-b5bfa348598c.jpg)
+![그림3](https://user-images.githubusercontent.com/84304035/122955735-51398000-d3bb-11eb-999e-32e3b25282bd.jpg)
 
 #### 여기까지수정
 
