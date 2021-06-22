@@ -71,13 +71,14 @@
  - MSAEZ 툴에서 이벤트스토밍 작업
  - 호텔 예약 시스템에 맞춰 각 도메인별 command,event,aggregate,policy를 도출
  - 이후 java소스로의 컨버전을 고려하여 네이밍을 영문 대문자로 시작하는 것으로 명칭변경 적용
-![ver1](그림1.jpg)
+![그림1](https://user-images.githubusercontent.com/84304035/122953418-aa081900-d3b9-11eb-9b92-e651a4c8fec7.jpg)
 
 #### ver2 - 이벤트 수정
+ - 결재 취소는 사용자의 행위가 아닌(command) 예약 취소 행위시 발생하는 것으로 변경
  - 결재 후 예약 진행 시, 주문은 공실에 한해서 예약이 가능하다는 가정하에 호탤 관계자가 임의로 취소할 수 없는 것으로 변경하였음
  - 예약시 예약진행과 예약취소를 별도의 aggregate로 분리
  - SMS를 받는 것과 Mypage에서 조회하는 것 모두 안내 기능이므로 별도의 서비스로 분리
-![그림2](https://user-images.githubusercontent.com/84304035/122952551-0880c780-d3b9-11eb-8ecb-6028689e10be.jpg)
+![그림2](https://user-images.githubusercontent.com/84304035/122953437-ae343680-d3b9-11eb-8b2f-c78695f3c50f.jpg)
 
 #### ver3 - attribute생성
 ![그림3](https://user-images.githubusercontent.com/84304035/122951447-403b3f80-d3b8-11eb-8a56-17bb7c06ce1f.jpg)
