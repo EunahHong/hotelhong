@@ -72,7 +72,7 @@
  - MSAEZ 툴에서 이벤트스토밍 작업
  - 호텔 예약 시스템에 맞춰 각 도메인별 command,event,aggregate,policy를 도출
  - 이후 java소스로의 컨버전을 고려하여 네이밍을 영문 대문자로 시작하는 것으로 명칭변경 적용
-![ver1](https://github.com/mulcung03/AWS3_healthcenter/blob/main/refer/storming_1.JPG)
+![ver1](그림1.jpg)
 
 #### ver2 - relation정의
 ![ver2](https://github.com/mulcung03/AWS3_healthcenter/blob/main/refer/storming_2.JPG)
