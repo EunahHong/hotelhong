@@ -79,7 +79,7 @@
 ![그림2](https://user-images.githubusercontent.com/84304035/122948271-c1dd9e00-d3b5-11eb-92f8-69a68fdeddf6.jpg)
 
 #### ver3 - attribute생성
-![final](https://github.com/mulcung03/AWS3_healthcenter/blob/main/refer/storming_new.JPG)
+![그림3](https://user-images.githubusercontent.com/84304035/122951447-403b3f80-d3b8-11eb-8a56-17bb7c06ce1f.jpg)
 
 
 ### 기능 요구사항을 커버하는지 검증
