@@ -81,6 +81,7 @@
 #### ver3 - attribute생성
 ![그림3](https://user-images.githubusercontent.com/84304035/122951447-403b3f80-d3b8-11eb-8a56-17bb7c06ce1f.jpg)
 
+#### 여기까지수정
 
 ### 기능 요구사항을 커버하는지 검증
 1. 고객이 원하는 일자를 선택하고 예약한다.  --> O
